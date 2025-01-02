@@ -61,6 +61,54 @@
         <button onclick="location.href='mailto:chinmayi.hosur@example.com'">Contact Me</button>
           <button onclick="location.href='https://github.com/01fe23cs262/project1'">View Course Learning</button>
         <button onclick="location.href='https://github.com/01fe23cs262/project2'">View Project Review</button>
+        <section>
+    <button onclick="toggleCourseDetails()">View Course Learning</button>
+
+    <div id="course-details">
+        <h2>Course Learning Outcomes</h2>
+
+        <h3>Unit – 1</h3>
+
+        <h4>Chapter 1: Fundamentals of Algorithms and Problem Solving</h4>
+        <p>This chapter introduces the fundamentals of algorithms, exploring space and time complexities, which are critical for analyzing algorithm efficiency. It revisits data structures like stacks and queues and dives into recursion, comparing it with iteration. Additionally, it explains concepts like backtracking and recursive functions, including examples like the Towers of Hanoi problem.</p>
+
+        <h4>Chapter 2: Hashing and Hash Tables</h4>
+        <p>The chapter focuses on efficient data retrieval using hashing techniques. It explains direct address tables and hash tables, detailing the design of hash functions and strategies for collision resolution. Practical applications highlight how hashing is used to speed up data access in real-world scenarios.</p>
+
+        <h4>Chapter 3: Graphs and Trees</h4>
+        <p>This chapter covers fundamental data structures like graphs and trees, emphasizing their computer representation. It includes traversal techniques (DFS, BFS) and advanced trees such as AVL and 2-3 trees. Applications of binary trees, such as Tries, are discussed, along with real-world use cases in data organization and searching.</p>
+
+        <h3>Unit – 2</h3>
+
+        <h4>Chapter 4: Sorting Techniques</h4>
+        <p>The chapter provides a comprehensive overview of sorting algorithms, including bubble sort, selection sort, and insertion sort for basic understanding. Advanced methods like merge sort, quick sort, and heap sort are explained in terms of their efficiency and use cases. Visual examples help clarify how these algorithms operate.</p>
+
+        <h4>Chapter 5: Substring Search Algorithms</h4>
+        <p>This chapter delves into substring search techniques, starting with the brute-force approach. Advanced algorithms like Boyer-Moore, Knuth-Morris-Pratt, and Rabin-Karp are explained, showcasing their efficiency in text searching and applications in fields like bioinformatics and plagiarism detection.</p>
+
+        <h4>Chapter 6: Graph Algorithms</h4>
+        <p>Graph algorithms play a critical role in problem-solving. This chapter explains the union-find data structure and algorithms for finding the shortest paths (e.g., Dijkstra’s algorithm) and minimum spanning trees (e.g., Kruskal’s and Prim’s algorithms). Practical examples include network design and routing problems.</p>
+
+        <h3>Unit – 3</h3>
+
+        <h4>Chapter 7: Problem Case Studies</h4>
+        <p>Real-world problems like the Travelling Salesperson Problem, Knapsack Problem, and the Fake Coin Problem are explored. Advanced topics such as Strassen’s Matrix Multiplication and Huffman Coding are explained with their applications in optimization and data compression, respectively.</p>
+
+        <h4>Chapter 8: Limitation of Algorithm Power</h4>
+        <p>This chapter explores the boundaries of computational problem-solving, addressing undecidability and the distinction between P and NP classes. The P vs. NP problem, NP-Hard, and NP-Complete classes are discussed to highlight challenges in algorithm design and theoretical computer science.</p>
+    </div>
+</section>
+
+<script>
+    function toggleCourseDetails() {
+        const courseDetails = document.getElementById('course-details');
+        if (courseDetails.style.display === 'none') {
+            courseDetails.style.display = 'block';
+        } else {
+            courseDetails.style.display = 'none';
+        }
+    }
+</script>
     </section>
 </body>
 </html>
