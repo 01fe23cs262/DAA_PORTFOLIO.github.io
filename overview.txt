@@ -8,6 +8,8 @@ Towers of Hanoi: A classic recursive problem used to demonstrate recursive solut
 Backtracking: A problem-solving method that involves trying solutions and undoing steps (backtracking) if the solution is not viable.
 Recursion vs Iteration: Comparison of recursive and iterative approaches to problem-solving, their strengths, and weaknesses.
 
+
+
 Chapter 2: Hashing and Hash Tables
 Direct Address Table: A simple method to map keys directly to indices of a table.
 Hash Table: A data structure that stores key-value pairs, using a hash function to compute the index of the storage location.
@@ -28,6 +30,9 @@ Application of Binary Trees: Binary trees used in various applications like expr
 Tries: A tree-like data structure used for storing strings, often used in applications like autocomplete.
 DFS (Depth-First Search): A graph traversal algorithm that explores as far down a branch as possible before backtracking.
 BFS (Breadth-First Search): A graph traversal algorithm that explores all neighbors of a node before moving to the next level.
+
+
+
 Chapter 4: Sorting Techniques
 Sorting: The process of arranging data in a particular order (ascending/descending).
 Bubble Sort: A simple sorting algorithm where adjacent elements are swapped if they are in the wrong order.
@@ -36,15 +41,24 @@ Insertion Sort: Builds the sorted array one element at a time by inserting each 
 Merge Sort: A divide-and-conquer algorithm that splits the list into halves, recursively sorts them, and merges them back together.
 Quick Sort: A divide-and-conquer algorithm that selects a pivot and partitions the array into elements smaller and larger than the pivot, recursively sorting each partition.
 Heap Sort: A comparison-based sorting algorithm using a binary heap to repeatedly extract the maximum or minimum element and build the sorted output.
+
+
+
 Chapter 5: Substring Search Algorithms
 Brute-force Method: A straightforward approach where the pattern is checked at every position in the text.
 Boyer-Moore Algorithm: A highly efficient substring search algorithm that skips over sections of the text based on mismatch information.
 Knuth-Morris-Pratt Algorithm (KMP): An efficient string matching algorithm that uses partial match information to avoid redundant comparisons.
 Rabin-Karp Algorithm: Uses hashing to find a substring, checking potential matches through hash values.
+
+
+
 Chapter 6: Graph Algorithms
 Union-Find Data Structure: A structure that supports efficient union and find operations, often used for connected components in graphs.
 Shortest Path Algorithms: Methods like Dijkstra's Algorithm and Bellman-Ford Algorithm to find the shortest path between nodes in a graph.
 Minimum Spanning Tree Algorithms: Algorithms like Kruskal's and Prim's that find the minimum spanning tree of a connected graph.
+
+
+
 Chapter 7: Problem Case Studies
 Travelling Salesperson Problem: A classic NP-hard problem that involves finding the shortest possible route that visits each city exactly once.
 Knapsack Problem: A problem of selecting items with given weights and values to maximize the value in a knapsack of limited capacity.
