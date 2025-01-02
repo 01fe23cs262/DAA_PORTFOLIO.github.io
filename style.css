@@ -98,6 +98,25 @@ blockquote {
     margin-top: 2rem;
 }
 
+/* Buttons */
+button {
+    background-color: #4CAF50; /* Green background */
+    color: white; /* White text */
+    padding: 15px 30px; /* Larger padding for bigger button size */
+    font-size: 18px; /* Larger text */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 10px;
+    transition: background-color 0.3s ease, transform 0.2s ease; /* Adding a smooth transformation effect */
+}
+
+/* Button hover effect */
+button:hover {
+    background-color: #45a049; /* Darker green on hover */
+    transform: scale(1.1); /* Slightly enlarges the button when hovered */
+}
+
 /* Responsive Design */
 @media (max-width: 600px) {
     section {
@@ -106,5 +125,10 @@ blockquote {
 
     header {
         padding: 1.5rem;
+    }
+
+    button {
+        padding: 12px 25px; /* Adjusting button size for smaller screens */
+        font-size: 16px; /* Adjusting font size for smaller screens */
     }
 }
