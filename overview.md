@@ -1,4 +1,4 @@
-**Fundamentals of Algorithms and Problem Solving**
+# **Fundamentals of Algorithms and Problem Solving**
 
 Space and Time Complexities: Study of how the resource usage of an algorithm grows as the input size increases. Common complexity classes include O(1), O(n), O(n^2), O(log n), etc.
 
@@ -18,7 +18,7 @@ Recursion vs Iteration: Comparison of recursive and iterative approaches to prob
 
 
 
-**Hashing and Hash Tables**
+# **Hashing and Hash Tables**
 
 Direct Address Table: A simple method to map keys directly to indices of a table.
 
@@ -30,7 +30,7 @@ Collision Resolution Techniques: Strategies like chaining (linked lists at table
 
 
 
-**Graphs and Trees**
+# **Graphs and Trees**
 
 Graphs: Data structures consisting of nodes (vertices) and edges (connections between nodes).
 
@@ -60,7 +60,7 @@ BFS (Breadth-First Search): A graph traversal algorithm that explores all neighb
 
 
 
-**Sorting Techniques**
+# **Sorting Techniques**
 
 Sorting: The process of arranging data in a particular order (ascending/descending).
 
@@ -79,7 +79,7 @@ Heap Sort: A comparison-based sorting algorithm using a binary heap to repeatedl
 
 
 
-**Substring Search Algorithms**
+# **Substring Search Algorithms**
 
 Brute-force Method: A straightforward approach where the pattern is checked at every position in the text.
 
@@ -93,7 +93,7 @@ Rabin-Karp Algorithm: Uses hashing to find a substring, checking potential match
 
 
 
-**Graph Algorithms**
+# **Graph Algorithms**
 
 Union-Find Data Structure: A structure that supports efficient union and find operations, often used for connected components in graphs.
 
@@ -104,7 +104,7 @@ Minimum Spanning Tree Algorithms: Algorithms like Kruskal's and Prim's that find
 
 
 
-**Problem Case Studies**
+# **Problem Case Studies**
 Travelling Salesperson Problem: A classic NP-hard problem that involves finding the shortest possible route that visits each city exactly once.
 
 Knapsack Problem: A problem of selecting items with given weights and values to maximize the value in a knapsack of limited capacity.
