@@ -9,3 +9,6 @@ The project centers on identifying and addressing inefficiencies in urban planni
 
 # SARNATH CITY: A Smart City 
 ![AdobeStock_181088041-scaled-768x432-c](https://github.com/user-attachments/assets/1f61af28-ebbc-42b4-9619-183b022685dc)
+
+# Overview
+A smart city is a concept that incorporates advanced technology and digital solutions to improve the quality of life for its residents while enhancing sustainability, efficiency, and accessibility. For a city known for tourism, a smart tourism city integrates these technologies to provide a seamless experience for visitors, alongside supporting local infrastructure and services.
