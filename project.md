@@ -56,8 +56,10 @@ https://github.com/01fe23cs262/DAA_PORTFOLIO.github.io/blob/88d085b2591af55873db
 # **INDIVIDUAL PORTFOLIOS**
 
 # CHINMAYI HOSUR
-**GITHUB LINK:**
+**GITHUB LINK:** **https://01fe23cs262.github.io/sarnath.github.io/**
+
 **USN: 01FE23BCS262**
+
 ![WhatsApp Image 2024-03-29 at 9 21 04 PM](https://github.com/user-attachments/assets/2b79035f-4de4-4921-b101-448f1e6e5c16)
 
 
@@ -69,7 +71,7 @@ https://github.com/01fe23cs262/DAA_PORTFOLIO.github.io/blob/88d085b2591af55873db
 
 
 # SPURTHI S M K
-**GITHUB LINK:** https://spurtismk.github.io/daa-spurtismk.io/
+**GITHUB LINK:** **https://spurtismk.github.io/daa-spurtismk.io/**
 **USN: 01FE23BCS286**
 
 
