@@ -7,120 +7,132 @@
 
 /* Global Styles */
 body {
-    font-family: 'Poppins', sans-serif;
-    background-color: #f5f5f5;
+    font-family: 'Roboto', sans-serif;
+    background: linear-gradient(135deg, #1a2a6c, #b21f1f, #fdbb2d);
     margin: 0;
-    padding: 20px; /* Adding padding to the body to prevent sticking at the top */
+    padding: 20px;
     display: flex;
     justify-content: center;
-    align-items: flex-start; /* Aligns content towards the top */
+    align-items: center;
     min-height: 100vh;
+    color: #fff;
 }
 
 /* Main Container */
 section {
-    background-color: white;
-    padding: 2rem;
-    width: 90%;
-    max-width: 800px;
-    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
-    border-radius: 8px;
-    text-align: center;
-    margin-top: 30px; /* Adding margin to ensure there's space from the top */
+    background: rgba(255, 255, 255, 0.1);
+    padding: 2.5rem;
+    width: 85%;
+    max-width: 900px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+    border-radius: 12px;
+    text-align: left;
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.2);
 }
 
 /* Header */
 header {
-    background-color: #4CAF50;
-    color: white;
+    background: rgba(255, 255, 255, 0.2);
+    color: #fdbb2d;
     padding: 2rem;
-    border-radius: 8px;
-    margin-bottom: 1.5rem;
+    border-radius: 12px;
+    margin-bottom: 2rem;
+    text-align: center;
 }
 
 header h1 {
-    font-size: 2rem;
+    font-size: 2.5rem;
     margin: 0;
+    font-weight: bold;
 }
 
 header p {
-    margin: 1rem 0 0;
+    margin-top: 1rem;
+    font-size: 1.2rem;
+    color: #fff;
 }
 
 /* Section Titles */
 h2 {
-    color: #4CAF50;
+    color: #fdbb2d;
     margin-bottom: 1rem;
+    font-weight: 700;
 }
 
 /* List Items */
 ul {
-    list-style: none;
+    list-style: square inside;
     padding: 0;
+    color: #fff;
 }
 
 ul li {
-    background-color: #e7f7e7;
-    margin-bottom: 0.5rem;
-    padding: 0.75rem;
-    border-radius: 5px;
+    background: rgba(255, 255, 255, 0.2);
+    margin-bottom: 0.75rem;
+    padding: 1rem;
+    border-radius: 8px;
+    border: 1px solid rgba(255, 255, 255, 0.3);
 }
 
 /* Links */
 a {
-    color: #4CAF50;
+    color: #fdbb2d;
     text-decoration: none;
     font-weight: bold;
+    transition: color 0.3s;
 }
 
 a:hover {
+    color: #fff;
     text-decoration: underline;
 }
 
 /* Definition List */
 dl dt {
     font-weight: bold;
-    color: #333;
-    margin-top: 1rem;
+    color: #fdbb2d;
+    margin-top: 1.5rem;
 }
 
 dl dd {
-    margin-left: 1.5rem;
-    color: #666;
+    margin-left: 2rem;
+    color: #eee;
 }
 
 /* Blockquote */
 blockquote {
     font-style: italic;
-    color: #555;
-    border-left: 4px solid #4CAF50;
-    padding-left: 1rem;
-    margin-top: 2rem;
+    color: #ddd;
+    border-left: 5px solid #fdbb2d;
+    padding-left: 1.5rem;
+    margin-top: 2.5rem;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 8px;
 }
 
 /* Buttons */
 button {
-    background-color: #4CAF50; /* Green background */
-    color: white; /* White text */
-    padding: 15px 30px; /* Larger padding for bigger button size */
-    font-size: 18px; /* Larger text */
+    background: linear-gradient(135deg, #fdbb2d, #ff4e50);
+    color: #fff;
+    padding: 15px 40px;
+    font-size: 1rem;
     border: none;
-    border-radius: 5px;
+    border-radius: 8px;
     cursor: pointer;
     margin: 10px;
-    transition: background-color 0.3s ease, transform 0.2s ease; /* Adding a smooth transformation effect */
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
-/* Button hover effect */
 button:hover {
-    background-color: #45a049; /* Darker green on hover */
-    transform: scale(1.1); /* Slightly enlarges the button when hovered */
+    transform: scale(1.1);
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.4);
 }
 
 /* Responsive Design */
 @media (max-width: 600px) {
     section {
-        padding: 1.5rem;
+        padding: 2rem;
     }
 
     header {
@@ -128,7 +140,7 @@ button:hover {
     }
 
     button {
-        padding: 12px 25px; /* Adjusting button size for smaller screens */
-        font-size: 16px; /* Adjusting font size for smaller screens */
+        padding: 12px 30px;
+        font-size: 0.9rem;
     }
 }
