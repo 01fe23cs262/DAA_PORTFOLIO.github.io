@@ -41,3 +41,7 @@ The initial budget for transforming a 1,500 sq km city into a smart city ranges 
 4)Hydropower plants
 5)Sewage treatmennt
 6)30% green spaces
+
+# TEAM DETAILS
+
+![Uploading Screenshot 2025-01-03 152459.png…]()
