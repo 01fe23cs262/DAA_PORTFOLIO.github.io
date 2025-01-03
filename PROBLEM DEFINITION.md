@@ -70,3 +70,22 @@ The Set data structure in C++ inherently maintains its elements in sorted order.
 
 If you're calculating the shortest route for a food delivery from the restaurant (source) to a customer’s address (destination), the priority queue helps ensure that you always explore the shortest possible route next, thus optimizing the delivery path.
 In summary, the priority queue ensures that the Delivery System always processes the most promising locations (i.e., those with the smallest travel distance) first, making the delivery pathfinding process efficient and optimized for a restaurant delivery system.
+
+**Look up table**
+
+ *1.Lookup in the Hash Table (Menu System)*
+ 
+In the FoodMenu class, you have a hash table (unordered_map<string, double> menu) where the key is the dish name (a string) and the value is the price (a double). The lookup operation in this case is used when taking orders from customers and calculating the total bill.
+
+Role of Lookup:
+Retrieve the price of a dish: When a customer places an order, the dish name is provided, and the program looks up the price for that dish in the menu hash table using the dish name as the key.
+
+*2. Lookup in Customer Queue (Customer Management)*
+
+The CustomerQueue class involves managing a queue of customers, but lookup is not directly involved here. However, you can consider the process of displaying customers in the queue as a lookup-like operation.
+
+When you call queue.displayQueue(), it looks through all customers in the queue and displays them. This is a form of iterative lookup, where the program accesses and processes each customer in sequence.
+
+*3. Lookup in Reservations System (Table Reservations)*
+
+The Reservations class uses a map (map<int, pair<string, int>> reservations) where each table number is mapped to a pair containing the customer's name and the number of seats.
