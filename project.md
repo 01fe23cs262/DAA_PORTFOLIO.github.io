@@ -48,4 +48,4 @@ The initial budget for transforming a 1,500 sq km city into a smart city ranges 
 
 # PROJECT DEFINITION
 LINK BELOW:
-https://github.com/01fe23cs262/DAA_PORTFOLIO.github.io/blob/a0e29bb8aff81b8280401359dc388913d27c8da4/PROBLEM%20DEFINITION.md
+https://github.com/01fe23cs262/DAA_PORTFOLIO.github.io/blob/719530c1698318dd3bb884f026c67dfab2cd67f9/PROBLEM%20DEFINITION.md
