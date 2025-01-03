@@ -44,4 +44,4 @@ The initial budget for transforming a 1,500 sq km city into a smart city ranges 
 
 # TEAM DETAILS
 
-![Uploading Screenshot 2025-01-03 152459.png…]()
+![Screenshot 2025-01-03 152459](https://github.com/user-attachments/assets/abd257bc-9868-4948-bf4a-603cfee29e1b)
