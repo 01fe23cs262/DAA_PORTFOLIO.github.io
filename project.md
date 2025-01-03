@@ -30,3 +30,14 @@ Area: 75 - 150 sq km
 Area: 75 - 150 sq km
 9. Other Miscellaneous Areas (1-5%)
 Area: 15 - 75 sq km
+
+# BUDGET
+The initial budget for transforming a 1,500 sq km city into a smart city ranges from $20 billion to $45 billion, depending on factors like infrastructure, technology integration, and sustainability. Key expenditures include smart roads, energy systems, IoT infrastructure, and public services, along with development of residential and commercial spaces. The budget can vary based on regional conditions, government support, and the city's technology ambitions.
+
+# SUSTAINABILITY
+1)Solar powered street lights
+2)Electric roads for transportation
+3)Hybrid boats (solar/electric)
+4)Hydropower plants
+5)Sewage treatmennt
+6)30% green spaces
