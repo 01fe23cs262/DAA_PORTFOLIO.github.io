@@ -21,17 +21,8 @@ The Billing System is integrated with the order management module, ensuring that
 
 By focusing on these modules, the project aims to improve operational efficiency, reduce errors, and enhance customer satisfaction by providing faster and more accurate service. These modules are essential for optimizing the overall restaurant management process.
 
-# algorithms used
-To incorporate more algorithms, data structures, and functionalities from the provided list, I’ll enhance the existing code with the following changes:
 
-Binary Search Tree (BST): Used for efficient reservations and customer lookup.
-Union-Find: Used to manage table reservations to ensure a customer doesn’t occupy two tables.
-Dijkstra: Used in the delivery system to calculate the shortest path, which is already in the code, but I'll refactor it for clarity.
-Heap: Used for managing inventory quantities and sales in a priority-based system.
-Trie: Used for fast string lookups, such as customer names, food items, and reservations.
-Queue: Already present, and I will further utilize it in additional ways.
-
-Key Features:
+**Key Features:**
 Customer Queue: Allows adding and removing customers from a queue.
 Reservations: Allows table reservations and releases them when necessary.
 Inventory: Manage stock of items.
@@ -41,7 +32,7 @@ Lodging: Manages available rooms and bookings for customers.
 The program is designed to be a management system for a restaurant with functionalities for customer management, inventory management, reservations, food menu, and more.
 
 # **Algorithms Used:**
-# Dijkstra's Algorithm (Shortest Path):
+**Dijkstra's Algorithm (Shortest Path):**
 
 Used in the Delivery System to find the shortest distance between two locations. This algorithm is implemented using a priority queue (min-heap) and works by exploring the closest nodes first. It efficiently finds the shortest path in a weighted graph.
 
@@ -57,20 +48,20 @@ void shortestDistance(int source, int destination)
     // Dijkstra's algorithm implementation
 }
 
-# Depth-First Search (DFS) / Breadth-First Search (BFS) (Graph Traversal):
+**Depth-First Search (DFS) / Breadth-First Search (BFS) (Graph Traversal):**
 
 Although not directly implemented in the code, these algorithms are commonly used in graph-based systems, such as in the Delivery System, where the graph (locations connected by roads) can be traversed using DFS or BFS for route planning.
 
-# **Linear Search:**
+**Linear Search:**
 
 Used in places where specific values need to be found in collections such as reservations, inventory items, and menu items (e.g., checking if a reservation exists for a table or if an item is available in the inventory).
 cpp
 
-# Greedy Approach (In the context of room booking):
+**Greedy Approach (In the context of room booking):**
 
 The Lodging System uses a simple greedy approach when booking rooms. It books the available room of a particular type and removes it from the set of available rooms.
 The selection of a room type is done based on the room type requested, without optimization based on pricing (thus it is a greedy choice, always opting for the first available room).
 
-# Quick Sorting :
+**Quick Sorting :**
 
 The Set data structure in C++ inherently maintains its elements in sorted order. When rooms are added or released in the Lodging System, they are automatically sorted by their room ID (the first element of the pair). This helps in managing room availability efficiently.
