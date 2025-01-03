@@ -52,3 +52,18 @@ https://github.com/01fe23cs262/DAA_PORTFOLIO.github.io/blob/719530c1698318dd3bb8
 
 # MERGED CODE
 https://github.com/01fe23cs262/DAA_PORTFOLIO.github.io/blob/88d085b2591af55873db0497c11067f4d2259472/daa_mergedcode.cpp
+
+# **INDIVIDUAL PORTFOLIOS**
+
+# CHINMAYI HOSUR
+![WhatsApp Image 2024-03-29 at 9 21 04 PM](https://github.com/user-attachments/assets/2b79035f-4de4-4921-b101-448f1e6e5c16)
+
+**USN: 01FE23BCS262**
+
+# SRIPRIYA A H
+
+# SPURTHI S M K
+**GITHUB LINK**
+**USN: 01FE23BCS286**
+https://spurtismk.github.io/daa-spurtismk.io/
+# H S TEJASWINI
