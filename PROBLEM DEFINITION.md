@@ -65,3 +65,8 @@ The selection of a room type is done based on the room type requested, without o
 **Quick Sorting :**
 
 The Set data structure in C++ inherently maintains its elements in sorted order. When rooms are added or released in the Lodging System, they are automatically sorted by their room ID (the first element of the pair). This helps in managing room availability efficiently.
+
+**Priority Que**
+
+If you're calculating the shortest route for a food delivery from the restaurant (source) to a customer’s address (destination), the priority queue helps ensure that you always explore the shortest possible route next, thus optimizing the delivery path.
+In summary, the priority queue ensures that the Delivery System always processes the most promising locations (i.e., those with the smallest travel distance) first, making the delivery pathfinding process efficient and optimized for a restaurant delivery system.
