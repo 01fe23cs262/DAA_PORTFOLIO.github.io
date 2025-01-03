@@ -8,8 +8,8 @@
 /* Global Styles */
 body {
     font-family: 'Poppins', sans-serif;
-    background: linear-gradient(135deg, #ff7eb3, #ff758c);
-    color: #2c2c2c;
+    background: linear-gradient(135deg, #e0b3f1, #b084d2);
+    color: #3d3d3d;
     margin: 0;
     padding: 20px;
     display: flex;
@@ -39,7 +39,7 @@ section:hover {
 
 /* Header */
 header {
-    background: linear-gradient(135deg, #ff7eb3, #ff758c);
+    background: linear-gradient(135deg, #e0b3f1, #b084d2);
     color: #ffffff;
     padding: 1.5rem;
     border-radius: 12px;
@@ -62,10 +62,10 @@ header p {
 
 /* Section Titles */
 h2 {
-    color: #ff758c;
+    color: #b084d2;
     margin-bottom: 1rem;
     font-weight: bold;
-    border-bottom: 3px solid #ffe1e7;
+    border-bottom: 3px solid #f1e6fa;
     padding-bottom: 0.5rem;
     display: inline-block;
 }
@@ -74,26 +74,26 @@ h2 {
 ul {
     list-style: none;
     padding: 0;
-    color: #333;
+    color: #3d3d3d;
 }
 
 ul li {
-    background: #fef3f6;
+    background: #f9f1f9;
     margin-bottom: 1rem;
     padding: 1.2rem;
     border-radius: 10px;
-    border: 1px solid #ffd6dd;
+    border: 1px solid #d0a7e3;
     transition: background-color 0.4s ease, transform 0.3s ease;
 }
 
 ul li:hover {
-    background-color: #ffe1e7;
+    background-color: #f1e6fa;
     transform: translateY(-5px);
 }
 
 /* Links */
 a {
-    color: #ff758c;
+    color: #b084d2;
     text-decoration: none;
     font-weight: 600;
     position: relative;
@@ -101,7 +101,7 @@ a {
 }
 
 a:hover {
-    color: #d14a65;
+    color: #8c55a1;
 }
 
 a::after {
@@ -111,7 +111,7 @@ a::after {
     left: 0;
     width: 0%;
     height: 2px;
-    background-color: #ff758c;
+    background-color: #b084d2;
     transition: width 0.3s ease;
 }
 
@@ -122,7 +122,7 @@ a:hover::after {
 /* Definition List */
 dl dt {
     font-weight: bold;
-    color: #ff758c;
+    color: #b084d2;
     margin-top: 1rem;
 }
 
@@ -135,16 +135,16 @@ dl dd {
 blockquote {
     font-style: italic;
     color: #555;
-    border-left: 6px solid #ff758c;
+    border-left: 6px solid #b084d2;
     padding-left: 1.5rem;
     margin-top: 2rem;
-    background-color: #fff0f3;
+    background-color: #f9f1f9;
     border-radius: 10px;
 }
 
 /* Buttons */
 button {
-    background: linear-gradient(135deg, #ff758c, #d14a65);
+    background: linear-gradient(135deg, #b084d2, #9c64b3);
     color: #ffffff;
     padding: 12px 24px;
     font-size: 1.1rem;
@@ -155,7 +155,7 @@ button {
 }
 
 button:hover {
-    background: linear-gradient(135deg, #d14a65, #a8324d);
+    background: linear-gradient(135deg, #9c64b3, #7f4485);
     transform: translateY(-3px);
 }
 
