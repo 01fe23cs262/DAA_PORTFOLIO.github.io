@@ -52,7 +52,7 @@ void shortestDistance(int source, int destination)
 
 Although not directly implemented in the code, these algorithms are commonly used in graph-based systems, such as in the Delivery System, where the graph (locations connected by roads) can be traversed using DFS or BFS for route planning.
 
-**Linear Search:**
+**Brute Force search:**
 
 Used in places where specific values need to be found in collections such as reservations, inventory items, and menu items (e.g., checking if a reservation exists for a table or if an item is available in the inventory).
 cpp
