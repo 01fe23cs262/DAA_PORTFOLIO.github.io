@@ -12,3 +12,21 @@ The project centers on identifying and addressing inefficiencies in urban planni
 
 # Overview
 A smart city is a concept that incorporates advanced technology and digital solutions to improve the quality of life for its residents while enhancing sustainability, efficiency, and accessibility. For a city known for tourism, a smart tourism city integrates these technologies to provide a seamless experience for visitors, alongside supporting local infrastructure and services.
+1. Residential Areas (35-40%)
+Area: 525 - 600 sq km
+2. Commercial and Business Districts (15-20%)
+Area: 225 - 300 sq km
+3. Industrial Zones (10-15%)
+Area: 150 - 225 sq km
+4. Green Spaces and Parks (10-15%)
+Area: 150 - 225 sq km
+5. Transportation and Infrastructure (10-15%)
+Area: 150 - 225 sq km
+6. Utilities and Energy Infrastructure (5-10%)
+Area: 75 - 150 sq km
+7. Education and Healthcare (5-10%)
+Area: 75 - 150 sq km
+8. Cultural and Social Spaces (5-10%)
+Area: 75 - 150 sq km
+9. Other Miscellaneous Areas (1-5%)
+Area: 15 - 75 sq km
