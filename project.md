@@ -66,7 +66,7 @@ https://github.com/01fe23cs262/DAA_PORTFOLIO.github.io/blob/88d085b2591af55873db
 
 
 # SRIPRIYA A H
-**GITHUB LINK:**
+**GITHUB LINK: https://sripriya2505.github.io/portfolio.github.io/**
 
 **USN: 01FE23BCS209**
 
@@ -76,9 +76,12 @@ https://github.com/01fe23cs262/DAA_PORTFOLIO.github.io/blob/88d085b2591af55873db
 
 **USN: 01FE23BCS286**
 
+![WhatsApp Image 2025-01-03 at 10 14 49 PM](https://github.com/user-attachments/assets/cfcdf88b-0383-4bac-aaa8-2f248853bc17)
+
+
 
 
 # H S TEJASWINI
-**GITHUB LINK:**
+**GITHUB LINK: https://01fe23bcs090.github.io/portfolio.github.io/**
 
 **USN: 01FE23BCS090**
